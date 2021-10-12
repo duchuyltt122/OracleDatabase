@@ -1,0 +1,4 @@
+json
+cx_Oracle
+requests
+pandas
